@@ -5,6 +5,8 @@ A sick-day excuse in one line: not a fever, not a migraine -- the cat
 has scheduled a mandatory cuddle intervention, and attendance is not
 optional.
 
+The cat is the whole excuse: nobody questions a mandatory cuddle intervention, and nobody asks for a doctor's note from a cat.
+
 The program writes that one excuse to entry.txt in the output
 directory (MAKEFUN_OUTPUT_DIR, default /output). A command-line
 argument may name the directory instead, but the grader passes none.
